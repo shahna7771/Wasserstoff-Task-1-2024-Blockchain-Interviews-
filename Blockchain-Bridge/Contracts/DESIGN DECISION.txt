@@ -1,0 +1,11 @@
+DESIGN DECISION
+
+1)Token inilization ,supply, symbol.
+
+2)Lock smart contract for locking the ERC20 tokens by taking input reciever address, amount,senders details.
+
+3)Centralised bridge creation in .js file for tracking events of lock and release contract.
+
+4)Release smart contract for releasing the ERC20 tokens to receiver address, first it checks in centralised bridged whether reciever is valid or not.
+
+5)Testing the scenarios in ganache application.

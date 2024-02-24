@@ -1,0 +1,7 @@
+Challenges faced
+
+.)It was a challenging task while maintaining the official task side I managed time to complete it.
+.)Became more clear about centralised bridge in blockchain space and its importance.
+.)It was tough and challenging to connect and track details of lock and release contracts
+.)While releasing it was skillful to check to recievers address
+.)it would be better if message signature and wrapping of tokens was done here 
